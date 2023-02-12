@@ -1,8 +1,16 @@
 # Tableros de Tareas (Task Boards) 😉
 
+## Descripción (Description) 📋
+
 Gestiona 📆 tus tareas😉 con tableros, listas y tarjetas visuales 😃
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+## Herramientas 🛠️
+
+Las herramientas utilizadas en el desarrollo del proyecto fueron:
+
+* [Node JS v16 o superior](https://nodejs.org/es/) - Entorno de Ejecución de Servidor para JavaScript
+  
+* [Angular v15.1.5](https://angular.io/) - Framework Web Frontend para crear SPA (Single Page Aplication)
 
 ## Development server
 
